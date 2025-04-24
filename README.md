@@ -1,1 +1,1 @@
-# Bobesponjers
+Usar cross validation
